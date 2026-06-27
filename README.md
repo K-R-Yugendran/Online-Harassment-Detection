@@ -38,3 +38,4 @@ This is a Final Year B.Tech AI & ML project developed to detect online harassmen
 
 ## Author
 ** K.R.Yugendran **
+** G.Venkatesh **
